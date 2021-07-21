@@ -1,0 +1,26 @@
+.conteudo {
+	-fx-background-color: #333;
+	-fx-font-family: Oswald;
+}
+
+.label {
+	-fx-text-fill: #fff;
+	-fx-font-size: 28px;
+}
+
+.botoes {
+	-fx-background-color: #fff;
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 28px;
+	-fx-min-width: 60px;
+	-fx-min-height: 60px;
+	-fx-background-radius: 30px;
+}
+
+.verde {
+	-fx-text-fill: #10701c;
+}
+
+.vermelho {
+	-fx-text-fill: red;
+}
